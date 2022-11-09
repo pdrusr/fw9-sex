@@ -1,0 +1,23 @@
+{
+  "name": "fw9b-sex",
+  "version": "1.0.0",
+  "description": "backend do horna",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "wikipedia",
+    "enciclopedia",
+    "hornapedia"
+  ],
+  "author": "pdrusr",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  }
+}
